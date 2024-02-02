@@ -1,0 +1,38 @@
+Privacy Policy for TuneSpot
+
+1. Overview
+
+This Privacy Policy is intended to inform you about the collection, use, and protection of your personal information when using our offline music player app. By using TuneSpot, you agree to the terms outlined in this policy.
+
+2. Information We Collect
+
+a. Local Song Information: TuneSpot accesses and plays songs stored locally on your device. The app does not collect, store, or transmit any information about the songs played or their metadata.
+
+b. Playlist Data: TuneSpot enables you to create custom playlists. Playlist data is stored locally on your device and is not shared with TuneSpot or any third parties.
+
+c. App Usage Information: We may collect anonymous usage statistics to enhance the app's performance and user experience. This information is aggregated and cannot personally identify you.
+
+3. Shazam Integration
+
+TuneSpot integrates with Shazam to enhance music discovery. When you use the Shazam feature, Shazam collects and processes data as described in their privacy policy. Please review Shazam's privacy policy for more information on how they handle your data.
+
+4. How We Use Your Information
+
+a. Local Song Information: Information about the songs on your device is used solely for playing and managing your music within TuneSpot. No data is sent to external servers.
+
+b. Playlist Data: Playlist data is stored locally to provide you with a personalized music experience. TuneSpot does not access or use this information.
+
+c. App Usage Information: Anonymous usage statistics are collected to analyze trends, identify bugs, and improve the overall functionality and performance of the app.
+
+5. Third-Party Services
+
+TuneSpot integrates with Shazam for music discovery. Please review Shazam's privacy policy to understand how they handle your data.
+
+6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically. Any changes will be reflected in the app, and the updated policy will be effective immediately. Please review this policy regularly for updates.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at michaelapphost@gmail.com.
+
